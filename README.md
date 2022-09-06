@@ -1,2 +1,2 @@
 # HydroGrads
-CEE492_Fall2022
+CEE492_Fall2022_FinalProject
